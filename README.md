@@ -33,7 +33,7 @@ Aquí encontrarás una selección de proyectos que reflejan mi capacidad técnic
 
 📂 Carpeta: `ecommerce_análisis`
 
-[Ver proyecto](https://www.notion.so/enlace-a-tu-proyecto-ecommerce)
+[Ver proyecto](https://github.com/kevinbethancourt/Analisis-de-Datos-Portfolio/tree/main/ecommerce_an%C3%A1lisis)
 
 Análisis de comportamiento de compra y rendimiento de productos en un entorno de ecommerce. El objetivo fue entender el ciclo de ventas y segmentar a los clientes según su comportamiento.
 
