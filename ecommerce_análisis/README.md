@@ -1,5 +1,3 @@
-# Ecommerce Projetc
-
 # Análisis de Clientes para Tienda Online
 
 Este proyecto tiene como objetivo analizar el comportamiento de los clientes de una tienda online con el fin de comprender qué factores impulsan las ventas y proponer estrategias que ayuden a mejorar los esfuerzos de marketing.
