@@ -47,7 +47,7 @@ Análisis de comportamiento de compra y rendimiento de productos en un entorno d
 
 📂 Carpeta: `pizza_ventas_sql_powerbi`
 
-[Ver proyecto](https://www.notion.so/enlace-a-tu-proyecto-pizzas)
+[Ver proyecto](https://github.com/kevinbethancourt/Analisis-de-Datos-Portfolio/tree/main/pizza_ventas_sql_powerbi)
 
 Análisis completo usando SQL para extraer datos y Power BI para visualizarlos. Se investigaron las pizzas más vendidas, los tickets promedio y los días de mayor demanda.
 
@@ -61,7 +61,7 @@ Análisis completo usando SQL para extraer datos y Power BI para visualizarlos. 
 
 📂 Carpeta: `rh_dashboard_powerbi`
 
-[Ver proyecto](https://www.notion.so/enlace-a-tu-proyecto-rrhh)
+[Ver proyecto](https://github.com/kevinbethancourt/Analisis-de-Datos-Portfolio/tree/main/rh_dashboard_powerbi)
 
 Dashboard interactivo de recursos humanos enfocado en el análisis de rotación laboral. Incluye KPIs sobre satisfacción, antigüedad, ingresos y tasas de desvinculación.
 
