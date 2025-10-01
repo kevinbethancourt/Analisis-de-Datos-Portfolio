@@ -1,10 +1,10 @@
-# 🍕 Análisis de Ventas de Pizzas
+# Análisis de Ventas de Pizzas
 
 Este proyecto presenta un análisis integral de las ventas de pizzas, utilizando **SQL** para la extracción de datos y **Power BI** para visualización interactiva. El objetivo principal es entender el comportamiento de los pedidos, identificar productos rentables y generar recomendaciones accionables para optimizar la toma de decisiones comerciales.
 
 ---
 
-## 🧠 Descripción del Proyecto
+## Descripción del Proyecto
 
 A partir de una base de datos transaccional de una cadena de pizzerías, se desarrolló un flujo completo de análisis que incluye:
 
@@ -14,7 +14,7 @@ A partir de una base de datos transaccional de una cadena de pizzerías, se desa
 
 ---
 
-## ❓ Preguntas Clave del Análisis
+## Preguntas Clave del Análisis
 
 - ¿Cuáles son las pizzas más y menos vendidas en ingresos, unidades y frecuencia?
 - ¿Cuál es el ticket promedio por pedido?
@@ -26,7 +26,7 @@ Estas preguntas permitieron construir indicadores relevantes y visualizaciones o
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## Herramientas Utilizadas
 
 | Herramienta     | Uso Principal                                      |
 |-----------------|----------------------------------------------------|
@@ -36,7 +36,7 @@ Estas preguntas permitieron construir indicadores relevantes y visualizaciones o
 
 ---
 
-## 📚 Principales Aprendizajes
+## Principales Aprendizajes
 
 - Diseñé un análisis de ventas desde cero usando SQL relacional.
 - Profundicé en la segmentación de productos por categoría, tamaño y ticket promedio.
@@ -46,7 +46,7 @@ Estas preguntas permitieron construir indicadores relevantes y visualizaciones o
 
 ---
 
-## 💼 Aplicaciones en un Contexto Real
+## Aplicaciones en un Contexto Real
 
 Este análisis puede ser implementado en una pizzería real para:
 
@@ -57,11 +57,11 @@ Este análisis puede ser implementado en una pizzería real para:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 ¿Tienes preguntas o sugerencias?
 
-📧 **Email:** kevinmbethancourt@gmail.com  
-🔗 **LinkedIn:** [Kevin Bethancourt](https://www.linkedin.com/in/kevin-bethancourt-07a88a142)
+**Email:** kevinmbethancourt@gmail.com  
+**LinkedIn:** [Kevin Bethancourt](https://www.linkedin.com/in/kevin-bethancourt-07a88a142)
 
 ---
