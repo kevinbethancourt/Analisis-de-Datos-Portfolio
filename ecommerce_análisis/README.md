@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo analizar el comportamiento de los clientes de una tienda online con el fin de comprender qué factores impulsan las ventas y proponer estrategias que ayuden a mejorar los esfuerzos de marketing.
 
-## 📊 Dataset
+## Dataset
 
 **Fuente:** Kaggle
 
@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo analizar el comportamiento de los clientes de 
 
 El conjunto de datos contiene transacciones realizadas en una tienda online e incluye información como: fecha de compra, país, cantidad, precio unitario, ID del cliente y más.
 
-## 🛠 Herramientas utilizadas
+## Herramientas utilizadas
 
 - **Python**
     - pandas
@@ -18,7 +18,7 @@ El conjunto de datos contiene transacciones realizadas en una tienda online e in
     - seaborn
 - **Jupyter Notebook**
 
-## 📋 Contenido del análisis
+## Contenido del análisis
 
 - Limpieza de datos (tratamiento de valores nulos, tipos de datos, duplicados, etc.)
 - Exploración general del dataset
